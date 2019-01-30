@@ -30,4 +30,3 @@ while True:
 	except ValueError:
 	# just in case someone types in 'two thousand and six' or another string, rather than 2006
 		print("Please enter in the year in the format yyyy (2018, for example)")
-		continue
